@@ -9,7 +9,7 @@ from pathlib import Path
 from setuptools import setup, find_packages
 
 
-NAME = 'audiocraft'
+NAME = 'tts-webui.audiocraft'
 DESCRIPTION = 'Audio generation research library for PyTorch'
 
 URL = 'https://github.com/facebookresearch/audiocraft'
